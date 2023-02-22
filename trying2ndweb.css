@@ -1,0 +1,42 @@
+
+
+
+body{
+   
+    background: linear-gradient(
+     to top,
+     #00c3ff,
+     #ff0000);    
+     background: linear-gradient(
+     to right,
+     #00c3ff,
+     #ff0000);   
+ }
+ img{
+    
+    width: 380px;
+    height: 320px;
+    border-radius: 10px;
+    
+ }
+ #red{
+    padding-left: 50px;
+ }
+ #Gate{
+    padding-left: 40px;
+ }
+ #taj{
+    padding-left: 40px;
+ }
+ #Qutab{
+    padding-left: 50px;
+    
+ }
+ #Lotus{
+    padding-left: 40px;
+ }
+ input{
+    color: #ff0800;
+ }
+
+ 
